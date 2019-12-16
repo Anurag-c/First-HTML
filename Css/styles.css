@@ -1,0 +1,53 @@
+
+  body {
+    background-color: black;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 5%;
+    border-width: 5px;
+  }
+
+  h1{
+    color: #ce2e6c;
+  }
+
+  h3{
+    color: #ce2e6c;
+    font-size: 30px;
+  }
+
+  p{
+    color: #ffb5b5;
+    font-size: 30px;
+  }
+
+  a{
+    color: #ed5107;
+  }
+
+  h4{
+    color: #ed5107;
+    font-size: 20px;
+  }
+
+  ul{
+    color: #ffb5b5;
+    font-size: 30px;
+  }
+
+ ol{
+  color: #ff78ae;
+ }
+
+ tr{
+   color: #ffb5b5;
+   font-size: 25px;
+ }
+
+ label{
+   color: #ed5107
+ }
